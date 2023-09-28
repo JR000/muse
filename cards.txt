@@ -1,0 +1,22 @@
+3@exercise@Упражнение 1weofjwoijfoiwjeofijwfowijoifwjoiejfowijeofiwjeoifjwoijfowijofwjeifjowiejofiwjeiofjowiejfoeiwjeofjweoifjowjefoiwjfoiwjoifjwoeijfowijeofiwjofiwjeoifjowiejfo@[]`
+4@definition@Карточка@[2, 3]`
+5@theorem@Карточка@[2, 4]`
+6@exercise@Упражнение 1
+
+
+
+wefwefwefwefeowifjwoiejfowijofiwjeofijweofi
+@[]`
+7@definition@Карточка@[2, 3]`
+8@theorem@Карточка@[2, 4]`
+9@exercise@Упражнение 1@[]`
+10@definition@Карточка@[2, 3]`
+11@theorem@Карточка@[2, 4]`
+12@exercise@Упражнение 1@[]`
+13@definition@Карточка@[2, 3]`
+14@theorem@Карточка@[2, 4]`
+15@exercise@Упражнение 1@[]`
+1111@definition@Карточка@[]`
+212@theorem@Карточка@[2, 4]`
+1@jweiof@wefwef
+@[]`
